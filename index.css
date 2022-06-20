@@ -259,7 +259,6 @@ a:hover{
   width: 100%;
   display: flex;
   justify-content: center;
-  position: absolute;  
   top: 126px;
 }
 
@@ -273,8 +272,7 @@ a:hover{
 
 #imageslider{
   width: 5760px;
-  display: flex;  
-  position: absolute;  
+  display: flex;   
   transition: transform 0.5s;
 }
 
